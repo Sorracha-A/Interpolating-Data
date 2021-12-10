@@ -6,7 +6,7 @@ struct points_record {
     double y_value;
 };
 int main(){
-    FILE *data_file = fopen("C:\\Users\\sinon\\Documents\\GitHub\\Interpolating-Data\\Data\\data.csv","r");
+    FILE *data_file = fopen("Data/data.csv","r");
     if (data_file==NULL){
         perror("Unable to open the file.");
         exit(1);
