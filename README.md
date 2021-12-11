@@ -11,7 +11,7 @@ This project is made to read the given data set(.CSV) and interpolate it with li
 # Member
 Sorracha Aiemmeesri 64011628
 
-# example
+# Example
 - raw data
 
 
