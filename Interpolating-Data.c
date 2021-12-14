@@ -34,9 +34,12 @@ int main(){
         exit(1);
     }
 
+    fscanf(data_file, "%*[^\n]\n");
     for(;count<sizeof(records)/sizeof(records[0]);++count){
+
         int got = fscanf(data_file,"%lf,%lf",&records[count].x_value,&records[count].y_value);
         if (got != 2) break;
+
     }
 
     fclose(data_file);
