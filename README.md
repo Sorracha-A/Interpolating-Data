@@ -15,7 +15,7 @@ Sorracha Aiemmeesri 64011628
 - raw data
 
 
-  ![image](![image](https://user-images.githubusercontent.com/90688030/146083904-c51ab453-8f72-481e-9b4e-72edeac195b9.png)
+  ![image](https://user-images.githubusercontent.com/90688030/146083993-17f7a878-7a37-4c3a-b18a-d6e0444ce4c3.png)
 
 - some of the interpolated data
 
